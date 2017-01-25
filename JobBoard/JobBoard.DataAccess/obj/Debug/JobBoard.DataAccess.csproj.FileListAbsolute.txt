@@ -1,0 +1,5 @@
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.DataAccess\bin\Debug\JobBoard.DataAccess.dll
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.DataAccess\bin\Debug\JobBoard.DataAccess.pdb
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.DataAccess\obj\Debug\JobBoard.DataAccess.csprojResolveAssemblyReference.cache
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.DataAccess\obj\Debug\JobBoard.DataAccess.dll
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.DataAccess\obj\Debug\JobBoard.DataAccess.pdb

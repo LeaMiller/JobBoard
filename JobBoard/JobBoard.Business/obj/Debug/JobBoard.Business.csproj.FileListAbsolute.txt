@@ -1,0 +1,5 @@
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Business\bin\Debug\JobBoard.Business.dll
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Business\bin\Debug\JobBoard.Business.pdb
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Business\obj\Debug\JobBoard.Business.csprojResolveAssemblyReference.cache
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Business\obj\Debug\JobBoard.Business.dll
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Business\obj\Debug\JobBoard.Business.pdb

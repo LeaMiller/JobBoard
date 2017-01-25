@@ -1,0 +1,7 @@
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Tests\bin\Debug\JobBoard.Tests.dll
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Tests\bin\Debug\JobBoard.Tests.pdb
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Tests\bin\Debug\nunit.framework.dll
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Tests\bin\Debug\nunit.framework.xml
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Tests\obj\Debug\JobBoard.Tests.csprojResolveAssemblyReference.cache
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Tests\obj\Debug\JobBoard.Tests.dll
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Tests\obj\Debug\JobBoard.Tests.pdb

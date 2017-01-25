@@ -1,0 +1,5 @@
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Entities\bin\Debug\JobBoard.Entities.dll
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Entities\bin\Debug\JobBoard.Entities.pdb
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Entities\obj\Debug\JobBoard.Entities.csprojResolveAssemblyReference.cache
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Entities\obj\Debug\JobBoard.Entities.dll
+C:\Development\Personal\angular\JobBoard\JobBoard\JobBoard.Entities\obj\Debug\JobBoard.Entities.pdb
